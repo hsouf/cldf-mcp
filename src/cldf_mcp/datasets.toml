@@ -1,0 +1,60 @@
+# Pinned dataset releases. Files are fetched from the tagged release and verified
+# against these SHA-256 checksums before anything is loaded.
+#
+# role = "features"  a CLDF StructureDataset whose values become queryable features
+# role = "catalog"   Glottolog: the language catalog and classification every other
+#                    dataset is joined through (by Glottocode). Selected parameters can
+#                    also be exposed as features via `feature_parameters`.
+
+[datasets.wals]
+title = "The World Atlas of Language Structures Online"
+short_title = "WALS"
+role = "features"
+version = "v2020.6"
+edition_note = "Data of the 2013 WALS Online edition, CLDF release v2020.6"
+base_url = "https://raw.githubusercontent.com/cldf-datasets/wals/v2020.6/cldf/"
+repository = "https://github.com/cldf-datasets/wals"
+homepage = "https://wals.info"
+license = "CC-BY-4.0"
+citation = "Dryer, Matthew S. & Haspelmath, Martin (eds.) 2013. The World Atlas of Language Structures Online. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at https://wals.info)"
+metadata = "StructureDataset-metadata.json"
+names_table = "language_names.csv"
+bibliography = "sources.bib"
+language_url = "https://wals.info/languoid/lect/wals_code_{id}"
+feature_url = "https://wals.info/feature/{id}"
+contribution_url = "https://wals.info/chapter/{id}"
+
+[datasets.wals.files]
+"StructureDataset-metadata.json" = "96f4881b6c29c3349e22f22e4058b6b5025595c03f8cbfb66fb203ba2a8b4307"
+"languages.csv" = "10e0742f158dadd4ef9484797ef7606a337306ee49a110a58c8e658826d3290e"
+"parameters.csv" = "8f84ecf07e67ec59a750c52544cc2654e461a1ff6fed44bd4a7259579c7cd894"
+"codes.csv" = "88c402d840ddeaf08545aea8395b593e9a1c44fe18353306a01dc839ea6a49b9"
+"values.csv" = "2d672f80dbe8cf1839061af0301650bde60c326bbb486835c93ab7304b5b06cd"
+"chapters.csv" = "6bce4c27fd1ee9ee5f859e580fc14736fb1ae2b82153df1efa3befb431ba9e68"
+"language_names.csv" = "ed290447f44df3dd8b2cdb89891f479368fc72bad8fd9f4424b49f2c2b4e57ac"
+"sources.bib" = "015c0b4bc01f12ac90cd98ed62746d3551ba5198a9a43d55237896c38cacb8db"
+
+[datasets.glottolog]
+title = "Glottolog"
+short_title = "Glottolog"
+role = "catalog"
+version = "v5.3"
+edition_note = "Glottolog 5.3 as CLDF"
+base_url = "https://raw.githubusercontent.com/glottolog/glottolog-cldf/v5.3/cldf/"
+repository = "https://github.com/glottolog/glottolog-cldf"
+homepage = "https://glottolog.org"
+license = "CC-BY-4.0"
+citation = "Hammarström, Harald & Forkel, Robert & Haspelmath, Martin & Bank, Sebastian. 2026. Glottolog 5.3. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at https://glottolog.org)"
+metadata = "cldf-metadata.json"
+names_table = "names.csv"
+feature_parameters = ["aes", "med"]
+language_url = "https://glottolog.org/resource/languoid/id/{id}"
+source_url = "https://glottolog.org/resource/reference/id/{id}"
+
+[datasets.glottolog.files]
+"cldf-metadata.json" = "32f6f8f3b09e1e29491293c7575283d15ec52c3e617368f9fefab564deb42649"
+"languages.csv" = "1a50a393bc81568b656f9522be18aa4f80f38e94309ba6c863d583234adfbb89"
+"parameters.csv" = "08a83f8ea52a19e3293025c403277df70ffb3bdc096e019f51232ae4810407d7"
+"codes.csv" = "cc1d2d2a4a27e3f9d396f255acfa755ee4a63125b8467f9f8f904ee0dc8717b4"
+"values.csv" = "a8601cb04ccc6a310538217f772d2461853aa0ea49e3bfe24c7396570fc4ea25"
+"names.csv" = "f86e3de09ef1067e8f0507abe31ecc2d63f6cc5ab93b9f8563aa0c36dbc4f902"

@@ -1,0 +1,55 @@
+[build-system]
+requires = ["hatchling>=1.25"]
+build-backend = "hatchling.build"
+
+[project]
+name = "cldf-mcp"
+version = "0.1.0"
+description = "MCP server for cross-linguistic data (CLDF): WALS typology and Glottolog classification, with provenance and sampling-bias-aware statistics."
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [{ name = "soufianehajazi23", email = "soufianehajazi23@gmail.com" }]
+keywords = ["mcp", "model-context-protocol", "linguistics", "typology", "wals", "glottolog", "cldf"]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Intended Audience :: Science/Research",
+  "Intended Audience :: Education",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Topic :: Scientific/Engineering",
+  "Topic :: Text Processing :: Linguistic",
+]
+dependencies = ["mcp>=2.3,<3"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "anyio>=4", "ruff>=0.6"]
+
+[project.scripts]
+cldf-mcp = "cldf_mcp.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/soufianehajazi23/cldf-mcp"
+Issues = "https://github.com/soufianehajazi23/cldf-mcp/issues"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/cldf_mcp"]
+
+[tool.hatch.build.targets.sdist]
+include = ["src/cldf_mcp", "tests", "README.md", "LICENSE", "CHANGELOG.md", "DATA_LICENSES.md"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["network: downloads the real pinned datasets (deselect with -m 'not network')"]
+addopts = "-m 'not network'"
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]

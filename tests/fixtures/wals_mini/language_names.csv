@@ -1,0 +1,42 @@
+ID,Language_ID,Name,Provider
+59,alb,"Albanian, Gheg",ethnologue
+60,alb,"Albanian, Tosk",ethnologue
+80,asl,American Sign Language,ethnologue
+173,aze,"Azerbaijani, North",ethnologue
+582,eng,English,ethnologue
+604,fin,Finnish,ethnologue
+747,haw,Hawaiian,ethnologue
+758,hin,Hindi,ethnologue
+851,jpn,Japanese,ethnologue
+1067,kor,Korean,ethnologue
+2012,swa,Swahili,ethnologue
+2025,tag,Tagalog,ethnologue
+2195,tur,Turkish,ethnologue
+2403,yor,Yoruba,ethnologue
+2463,haw,'Olelo Hawai'i,other
+2504,alb,"Albanian, Tosk dialect",other
+2514,asl,Ameslan,other
+2645,bsq,Basque (Central),other
+2646,bqb,"Basque, Bidasoa Valley",other
+2654,bso,"Basque, Souletin",other
+2656,bsq,"Basque, central",other
+2807,mnd,Chinese (Mandarin),other
+2984,eng,English (Standard Southern British),other
+3009,tag,Filipino,other
+3114,kor,Hanguohua,other
+3186,iri,Irish Gaelic,other
+3322,swa,KiSwahili,other
+3521,mnd,Mandarin Chinese,other
+3809,tur,Osmanli,other
+5375,alb,Albanian,ruhlen
+5816,eng,English,ruhlen
+5835,fin,Finnish,ruhlen
+5856,iri,Gaelic,ruhlen
+5957,haw,Hawaiian,ruhlen
+5969,hin,Hindi,ruhlen
+6036,jpn,Japanese,ruhlen
+6213,kor,Korean,ruhlen
+6989,swa,Swahili,ruhlen
+6997,tag,Tagalog,ruhlen
+7146,tur,Turkish,ruhlen
+7329,yor,Yoruba,ruhlen

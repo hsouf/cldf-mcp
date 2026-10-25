@@ -1,0 +1,33 @@
+ID,Parameter_ID,Name,Description,Number,icon
+1A-1,1A,Small,Small,1,c0000dd
+1A-2,1A,Moderately small,Moderately small,2,c9999ff
+1A-3,1A,Average,Average,3,cffffff
+1A-4,1A,Moderately large,Moderately large,4,cff66ff
+1A-5,1A,Large,Large,5,cdd0000
+14A-1,14A,No fixed stress,No fixed stress (mostly weight-sensitive stress),1,cffffff
+14A-2,14A,Initial,Initial: stress is on the first syllable,2,cdd0000
+14A-3,14A,Second,Second: stress is on the second syllable,3,ddd0000
+14A-4,14A,Third,Third: stress is on the third syllable,4,sdd0000
+14A-5,14A,Antepenultimate,Antepenultimate: stress is on the antepenultimate (third from the right) syllable,5,s0000dd
+14A-6,14A,Penultimate,Penultimate: stress is on the penultimate (second from the right) syllable,6,d0000dd
+14A-7,14A,Ultimate,Ultimate: stress is on the ultimate (last) syllable,7,c0000dd
+81A-1,81A,SOV,Subject-object-verb (SOV),1,c0000dd
+81A-2,81A,SVO,Subject-verb-object (SVO),2,cdd0000
+81A-3,81A,VSO,Verb-subject-object (VSO),3,cffff00
+81A-4,81A,VOS,Verb-object-subject (VOS),4,dffff00
+81A-5,81A,OVS,Object-verb-subject (OVS),5,ddd0000
+81A-6,81A,OSV,Object-subject-verb (OSV),6,d0000dd
+81A-7,81A,No dominant order,Lacking a dominant word order,7,ccccccc
+85A-1,85A,Postpositions,Postpositions,1,c0000dd
+85A-2,85A,Prepositions,Prepositions,2,cdd0000
+85A-3,85A,Inpositions,Inpositions,3,cffff00
+85A-4,85A,No dominant order,More than one adposition type with none dominant,4,ccccccc
+85A-5,85A,No adpositions,No adpositions,5,cffffff
+87A-1,87A,Adjective-Noun,Modifying adjective precedes noun (AdjN),1,cffff00
+87A-2,87A,Noun-Adjective,Modifying adjective follows noun (NAdj),2,c990099
+87A-3,87A,No dominant order,"Both orders of noun and modifying adjective occur, with neither dominant",3,ccccccc
+87A-4,87A,Only internally-headed relative clauses,"Adjectives do not modify nouns, occurring as predicates in internally headed relative clauses",4,cffffff
+139A-1,139A,None,No irregular negatives,1,cffffff
+139A-2,139A,One,One irregular negative,2,cffff00
+139A-3,139A,Some (2-5),Some irregular negatives (2-5),3,cff6600
+139A-4,139A,Many (more than 5),Many irregular negatives (more than 5),4,cdd0000

@@ -1,0 +1,1124 @@
+ID,Language_ID,Name,Provider,lang
+1011,ural1272,Finsk-Samojedisk,multitree,
+1012,ural1272,Proto-Uralic,multitree,
+1013,ural1272,Uralian,multitree,
+1014,ural1272,Uralic,multitree,
+1015,ural1272,Uralisch,multitree,
+1016,ural1272,ouralien,multitree,
+1017,ural1272,uralische Grundsprache,multitree,
+1018,ural1272,uralische Sprachklasse,multitree,
+2061,basq1248,An Bhascais,lexvo,ga
+2062,basq1248,Bahasa Basque,lexvo,id
+2063,basq1248,Basc,lexvo,ca
+2064,basq1248,Bascais,lexvo,gd
+2065,basq1248,Bascish,lexvo,gv
+2066,basq1248,Basgeg,lexvo,cy
+2067,basq1248,Baskek,lexvo,kw
+2068,basq1248,Baski keel,lexvo,et
+2069,basq1248,Baskiana linguo,lexvo,io
+2070,basq1248,Baskies,lexvo,af
+2071,basq1248,Baskijski jezik,lexvo,sh
+2072,basq1248,Baskijsko godka,lexvo,szl
+2073,basq1248,Baskin kieli,lexvo,fi
+2074,basq1248,Baskisch,lexvo,gsw
+2075,basq1248,Baskische Sprache,lexvo,de
+2076,basq1248,Baskisk,lexvo,da
+2077,basq1248,Baskisk språk,lexvo,nn
+2078,basq1248,Baskiska,lexvo,sv
+2079,basq1248,Baskičtina,lexvo,cs
+2080,basq1248,Baskneska,lexvo,is
+2081,basq1248,Basko,lexvo,bcl
+2082,basq1248,Baskovščina,lexvo,sl
+2083,basq1248,Basku valoda,lexvo,lv
+2084,basq1248,Baskysk,lexvo,fy
+2085,basq1248,Baskça,lexvo,tr
+2086,basq1248,Baskų kalba,lexvo,lt
+2087,basq1248,Basque,lexvo,en
+2088,basq1248,Basque language,lexvo,en
+2089,basq1248,Baszk nyelv,lexvo,hu
+2090,basq1248,Euskara,lexvo,eu
+2091,basq1248,Euskareg,lexvo,br
+2092,basq1248,Euskera,lexvo,es
+2093,basq1248,Eŭska lingvo,lexvo,eo
+2094,basq1248,Gjuha baske,lexvo,sq
+2095,basq1248,Idioma vasco,lexvo,an
+2096,basq1248,Język baskijski,lexvo,pl
+2097,basq1248,Lenghe basche,lexvo,fur
+2098,basq1248,Lengua basca,lexvo,lmo
+2099,basq1248,Limba basca,lexvo,sc
+2100,basq1248,Limba bască,lexvo,ro
+2101,basq1248,Lingua Vasconica,lexvo,la
+2102,basq1248,Lingua basca,lexvo,co
+2103,basq1248,Lingua éuscara,lexvo,gl
+2104,basq1248,Luenga vasca,lexvo,ext
+2105,basq1248,Língua basca,lexvo,pt
+2106,basq1248,Pinulongang Basko,lexvo,ceb
+2107,basq1248,Tiếng Basque,lexvo,vi
+2108,basq1248,Vascu,lexvo,ast
+2109,basq1248,Yuskara simi,lexvo,qu
+2110,basq1248,Zimanê baskî,lexvo,ku
+2111,basq1248,basque,lexvo,fr
+2112,basq1248,Łéngua basca,lexvo,vec
+2113,basq1248,Βασκική γλώσσα,lexvo,el
+2114,basq1248,Баски език,lexvo,bg
+2115,basq1248,Баскиски јазик,lexvo,mk
+2116,basq1248,Баскијски језик,lexvo,sr
+2117,basq1248,Баскский язык,lexvo,ru
+2118,basq1248,Баскська мова,lexvo,uk
+2119,basq1248,Բասկերեն,lexvo,hy
+2120,basq1248,באסקיש,lexvo,yi
+2121,basq1248,בסקית,lexvo,he
+2122,basq1248,باسكى,lexvo,arz
+2123,basq1248,باسكى تىلى,lexvo,ug
+2124,basq1248,باسک زبانیں,lexvo,ur
+2125,basq1248,زبان باسکی,lexvo,fa
+2126,basq1248,لغة باسكية,lexvo,ar
+2127,basq1248,பாஸ்க் மொழி,lexvo,ta
+2128,basq1248,ภาษาบาสก์,lexvo,th
+2129,basq1248,ბასკური ენა,lexvo,ka
+2130,basq1248,バスク語,lexvo,ja
+2131,basq1248,巴斯克語,lexvo,lzh
+2132,basq1248,巴斯克語,lexvo,zh
+2133,basq1248,巴斯克语,lexvo,wuu
+2134,basq1248,바스크어,lexvo,ko
+2135,basq1248,Basque,moseley & asher (1994),
+2136,basq1248,Basque,multitree,
+2137,basq1248,Euskera,multitree,
+2138,basq1248,Vascuense,multitree,
+2139,basq1248,Vaskisk,multitree,
+2140,basq1248,Basque,ruhlen (1987),
+2141,basq1248,Basque,wals,
+2142,basq1248,Basque (Basaburua and Imoz),wals,
+2143,basq1248,Basque (Bidasoa Valley),wals,
+2144,basq1248,Basque (Gernica),wals,
+2145,basq1248,Basque (Hondarribia),wals,
+2146,basq1248,Basque (Lekeitio),wals,
+2147,basq1248,Basque (Northern High Navarrese),wals,
+2148,basq1248,Basque (Oñati),wals,
+2149,basq1248,Basque (Roncalese),wals,
+2150,basq1248,Basque (Sakana),wals,
+2151,basq1248,Basque (Zeberio),wals,
+2152,basq1248,Basque,wals other,
+2153,basq1248,Basque (Central),wals other,
+2154,basq1248,Bidasoa Valley,wals other,
+2155,basq1248,Gernica,wals other,
+2156,basq1248,Hondarribia,wals other,
+2157,basq1248,Lekeitio,wals other,
+2158,basq1248,Northern High Navarrese,wals other,
+2159,basq1248,Oñati,wals other,
+2160,basq1248,Roncalese,wals other,
+2161,basq1248,Sakana,wals other,
+2162,basq1248,Zeberio,wals other,
+2163,basq1248,central,wals other,
+2547,japo1237,Japonic,multitree,
+3706,deaf1237,Deaf Sign Language,glottolog,
+5782,kore1280,An Chóiréis,lexvo,ga
+5783,kore1280,Bahasa Korea,lexvo,id
+5784,kore1280,Basa Koréa,lexvo,su
+5785,kore1280,Corean,lexvo,oc
+5786,kore1280,Coreanu,lexvo,ast
+5787,kore1280,Coreà,lexvo,ca
+5788,kore1280,Coréen,lexvo,fr
+5789,kore1280,Corëeg,lexvo,cy
+5790,kore1280,Gjuha koreane,lexvo,sq
+5791,kore1280,Idioma coreano,lexvo,es
+5792,kore1280,Idioma corián,lexvo,an
+5793,kore1280,IsiKoriya,lexvo,zu
+5794,kore1280,Język koreański,lexvo,pl
+5795,kore1280,Korea keel,lexvo,et
+5796,kore1280,Korea lingvo,lexvo,eo
+5797,kore1280,Koreaans,lexvo,li
+5798,kore1280,Koreai nyelv,lexvo,hu
+5799,kore1280,Korean,lexvo,en
+5800,kore1280,Korean kieli,lexvo,fi
+5801,kore1280,Korean language,lexvo,en
+5802,kore1280,Koreana linguo,lexvo,io
+5803,kore1280,Koreaneg,lexvo,br
+5804,kore1280,Koreanische Sprache,lexvo,de
+5805,kore1280,Koreano,lexvo,bcl
+5806,kore1280,Koreansk,lexvo,da
+5807,kore1280,Koreansk språk,lexvo,nn
+5808,kore1280,Koreanska,lexvo,sv
+5809,kore1280,Korece,lexvo,tr
+5810,kore1280,Koreek,lexvo,kw
+5811,kore1280,Koreera,lexvo,eu
+5812,kore1280,Korejiešu valoda,lexvo,lv
+5813,kore1280,Korejski jezik,lexvo,hr
+5814,kore1280,Korejština,lexvo,cs
+5815,kore1280,Koreya dili,lexvo,az
+5816,kore1280,Koreý dili,lexvo,tk
+5817,kore1280,Korêyî,lexvo,ku
+5818,kore1280,Korėjiečių kalba,lexvo,lt
+5819,kore1280,Kuriya simi,lexvo,qu
+5820,kore1280,Kòrejańsczi jãzëk,lexvo,csb
+5821,kore1280,Kórejčina,lexvo,sk
+5822,kore1280,Kóreska,lexvo,is
+5823,kore1280,Lengua coreana,lexvo,nap
+5824,kore1280,Limba coreeană,lexvo,ro
+5825,kore1280,Lingua Coreana,lexvo,la
+5826,kore1280,Lingua coreana,lexvo,gl
+5827,kore1280,Língua coreana,lexvo,pt
+5828,kore1280,Reo Kōrea,lexvo,mi
+5829,kore1280,Tiếng Triều Tiên,lexvo,vi
+5830,kore1280,Tsêu-siên-ngî,lexvo,hak
+5831,kore1280,Wikang Koreano,lexvo,tl
+5832,kore1280,coréen,lexvo,fr
+5833,kore1280,Забони кореягӣ,lexvo,tg
+5834,kore1280,Карэйская мова,lexvo,be
+5835,kore1280,Корейски език,lexvo,bg
+5836,kore1280,Корейский язык,lexvo,ru
+5837,kore1280,Корейська мова,lexvo,uk
+5838,kore1280,Корејски јазик,lexvo,mk
+5839,kore1280,Корејски језик,lexvo,sr
+5840,kore1280,Кэриэй тыла,lexvo,sah
+5841,kore1280,Солонгос хэл,lexvo,mn
+5842,kore1280,Կորեերեն,lexvo,hy
+5843,kore1280,קוריאנית,lexvo,he
+5844,kore1280,زبان کره‌ای,lexvo,fa
+5845,kore1280,كورىيەچە,lexvo,ug
+5846,kore1280,لغة كورية,lexvo,ar
+5847,kore1280,ކޮރެޔާ ބަސް,lexvo,dv
+5848,kore1280,कोरियन भाषा,lexvo,mr
+5849,kore1280,कोरियायी भाषा और साहित्य,lexvo,hi
+5850,kore1280,কোরীয় ভাষা,lexvo,bn
+5851,kore1280,கொரிய மொழி,lexvo,ta
+5852,kore1280,ಕೊರಿಯಾದ ಭಾಷೆ,lexvo,kn
+5853,kore1280,ภาษาเกาหลี,lexvo,th
+5854,kore1280,ພາສາເກົາຫຼີ,lexvo,lo
+5855,kore1280,კორეული ენა,lexvo,ka
+5856,kore1280,ኮሪይኛ,lexvo,am
+5857,kore1280,ᎪᎵᎥ,lexvo,chr
+5858,kore1280,ᑯᕆᐊᑎᑐᑦ/kuriatituq,lexvo,iu
+5859,kore1280,ភាសាកូរ៉េ,lexvo,km
+5860,kore1280,朝鮮話,lexvo,gan
+5861,kore1280,朝鮮語,lexvo,ja
+5862,kore1280,朝鲜语,lexvo,wuu
+5863,kore1280,韓文,lexvo,yue
+5864,kore1280,韓語,lexvo,lzh
+5865,kore1280,한국어,lexvo,ko
+5866,kore1280,Korean,moseley & asher (1994),
+5867,kore1280,Chaoxian,multitree,
+5868,kore1280,Chosen·,multitree,
+5869,kore1280,Corean,multitree,
+5870,kore1280,Hanguk Mal,multitree,
+5871,kore1280,Hanguohua,multitree,
+5872,kore1280,Hankul,multitree,
+5873,kore1280,Korean,multitree,
+5874,kore1280,Koreanisch,multitree,
+5875,kore1280,Urkoreanisch,multitree,
+5876,kore1280,Korean,ruhlen (1987),
+5877,kore1280,Korean,wals,
+5878,kore1280,Hanguohua,wals other,
+5880,finn1317,Baltic Finnic,multitree,
+5881,finn1317,Baltic sea Finnic,multitree,
+5882,finn1317,Baltic-Fennic,multitree,
+5883,finn1317,Baltic-Finnic,multitree,
+5884,finn1317,Balto-Fennic,multitree,
+5885,finn1317,Balto-Finnic,multitree,
+5886,finn1317,Fennic,multitree,
+5887,finn1317,Finnic,multitree,
+5888,finn1317,Ostseefinnisch,multitree,
+5889,finn1317,Proto-Finnic,multitree,
+5890,finn1317,Späturfinnisch,multitree,
+5891,finn1317,West Finnic,multitree,
+5892,finn1317,balto-finnois,multitree,
+5893,finn1317,ostseefinnische Sprachen,multitree,
+8262,basq1250,"Basque, Souletin",glottolog,
+8263,basq1250,Basque (Souletin),multitree,
+8264,basq1250,"Basque, Souletin",multitree,
+8265,basq1250,Souletin,multitree,
+8266,basq1250,Souletino,multitree,
+8267,basq1250,Suberoan,multitree,
+8268,basq1250,Suletino,multitree,
+8269,basq1250,Xiberoera,multitree,
+8270,basq1250,Zuberoera,multitree,
+31019,nucl1643,Bahasa Jepang,lexvo,id
+31020,nucl1643,Bahasa Jepun,lexvo,ms
+31021,nucl1643,Bahsa Jeupun,lexvo,ace
+31022,nucl1643,Basa Jepang,lexvo,jv
+31023,nucl1643,Djaponès,lexvo,wa
+31024,nucl1643,Gjuha japoneze,lexvo,sq
+31025,nucl1643,Hapon,lexvo,pam
+31026,nucl1643,Hapones,lexvo,bcl
+31027,nucl1643,Hinapon,lexvo,war
+31028,nucl1643,Hinapones,lexvo,ceb
+31029,nucl1643,Iapanais,lexvo,gd
+31030,nucl1643,Iapanisc sprǣc,lexvo,ang
+31031,nucl1643,Idioma chaponés,lexvo,an
+31032,nucl1643,Idioma japonés,lexvo,es
+31033,nucl1643,IsiJaphani,lexvo,zu
+31034,nucl1643,Jaapani keel,lexvo,et
+31035,nucl1643,Japana lingvo,lexvo,eo
+31036,nucl1643,Japaneg,lexvo,br
+31037,nucl1643,Japanesch,lexvo,lb
+31038,nucl1643,Japanese,lexvo,en
+31039,nucl1643,Japanese bhasa,lexvo,hif
+31040,nucl1643,Japanese language,lexvo,en
+31041,nucl1643,Japanese leid,lexvo,sco
+31042,nucl1643,Japanin kieli,lexvo,fi
+31043,nucl1643,Japanische Sprache,lexvo,de
+31044,nucl1643,Japanische Språch,lexvo,bar
+31045,nucl1643,Japannees,lexvo,af
+31046,nucl1643,Japans,lexvo,li
+31047,nucl1643,Japansk,lexvo,da
+31048,nucl1643,Japansk språk,lexvo,nn
+31049,nucl1643,Japanska,lexvo,is
+31050,nucl1643,Japanski jezik,lexvo,bs
+31051,nucl1643,Japanskt mál,lexvo,fo
+31052,nucl1643,Japanšćina,lexvo,hsb
+31053,nucl1643,Japonais,lexvo,fr
+31054,nucl1643,Japonca,lexvo,tr
+31055,nucl1643,Japonezy,lexvo,mg
+31056,nucl1643,Japoniana linguo,lexvo,io
+31057,nucl1643,Japoniera,lexvo,eu
+31058,nucl1643,Japonès,lexvo,ca
+31059,nucl1643,Japonés,lexvo,oc
+31060,nucl1643,Japončina,lexvo,sk
+31061,nucl1643,Japonština,lexvo,cs
+31062,nucl1643,Japonščina,lexvo,sl
+31063,nucl1643,Japonų kalba,lexvo,lt
+31064,nucl1643,Japuonu kalba,lexvo,lt
+31065,nucl1643,Japán nyelv,lexvo,hu
+31066,nucl1643,Japánagiella,lexvo,se
+31067,nucl1643,Japāņu valoda,lexvo,lv
+31068,nucl1643,Ji̍t-pún-oē,lexvo,nan
+31069,nucl1643,Język japoński,lexvo,pl
+31070,nucl1643,Kijapani,lexvo,sw
+31071,nucl1643,Limba japoneză,lexvo,ro
+31072,nucl1643,Lingua Iaponica,lexvo,la
+31073,nucl1643,Lingua giapponese,lexvo,it
+31074,nucl1643,Lingua giappunisa,lexvo,scn
+31075,nucl1643,Lingua japonesa,lexvo,lad
+31076,nucl1643,Lingua japonese,lexvo,ia
+31077,nucl1643,Lingua xaponesa,lexvo,gl
+31078,nucl1643,Língua japonesa,lexvo,pt
+31079,nucl1643,Ngi̍t-ngî,lexvo,hak
+31080,nucl1643,Nihonek,lexvo,kw
+31081,nucl1643,Nihun simi,lexvo,qu
+31082,nucl1643,Nĭk-buōng-ngṳ̄,lexvo,cdo
+31083,nucl1643,Reo Tāpōnē,lexvo,ty
+31084,nucl1643,Seapáinis,lexvo,ga
+31085,nucl1643,Shapaanish,lexvo,gv
+31086,nucl1643,Tajaponit,lexvo,kab
+31087,nucl1643,Tiếng Nhật,lexvo,vi
+31088,nucl1643,Wikang Hapones,lexvo,tl
+31089,nucl1643,Xaponés,lexvo,ast
+31090,nucl1643,Yapon dili,lexvo,az
+31091,nucl1643,Yapon tele,lexvo,tt
+31092,nucl1643,Zimanê japonî,lexvo,ku
+31093,nucl1643,japonais,lexvo,fr
+31094,nucl1643,ponbau,lexvo,jbo
+31095,nucl1643,Èdè Japaní,lexvo,yo
+31096,nucl1643,Ýapon dili,lexvo,tk
+31097,nucl1643,Ιαπωνική γλώσσα,lexvo,el
+31098,nucl1643,Јапански језик,lexvo,sr
+31099,nucl1643,Јапонски јазик,lexvo,mk
+31100,nucl1643,Забони ҷопонӣ,lexvo,tg
+31101,nucl1643,Нипонмудн келн,lexvo,xal
+31102,nucl1643,Япон хэл,lexvo,mn
+31103,nucl1643,Япон чĕлхи,lexvo,cv
+31104,nucl1643,Японская мова,lexvo,be
+31105,nucl1643,Японски език,lexvo,bg
+31106,nucl1643,Японский язык,lexvo,ru
+31107,nucl1643,Японська мова,lexvo,uk
+31108,nucl1643,Ճապոներեն,lexvo,hy
+31109,nucl1643,יאפאניש,lexvo,yi
+31110,nucl1643,יפנית,lexvo,he
+31111,nucl1643,جاپانی,lexvo,pnb
+31112,nucl1643,زبان ژاپنی,lexvo,fa
+31113,nucl1643,لغة يابانية,lexvo,ar
+31114,nucl1643,يابانى,lexvo,arz
+31115,nucl1643,ياپون تىلى,lexvo,ug
+31116,nucl1643,ޖަޕާނީ,lexvo,dv
+31117,nucl1643,जपानी भाषा,lexvo,mr
+31118,nucl1643,जापानी भाषा,lexvo,hi
+31119,nucl1643,জাপানি ভাষা,lexvo,bn
+31120,nucl1643,ஜப்பானிய மொழி,lexvo,ta
+31121,nucl1643,ಜಪಾನಿ ಭಾಷೆ,lexvo,kn
+31122,nucl1643,ജാപ്പനീസ് ഭാഷ,lexvo,ml
+31123,nucl1643,ภาษาญี่ปุ่น,lexvo,th
+31124,nucl1643,ཉི་ཧོང་སྐད།,lexvo,bo
+31125,nucl1643,ဂျပန်ဘာသာစကား,lexvo,my
+31126,nucl1643,იაპონური ენა,lexvo,ka
+31127,nucl1643,ភាសាជប៉ុន,lexvo,km
+31128,nucl1643,日文,lexvo,yue
+31129,nucl1643,日本語,lexvo,ja
+31130,nucl1643,日语,lexvo,gan
+31131,nucl1643,일본어,lexvo,ko
+31132,nucl1643,Japanese,moseley & asher (1994),
+31133,nucl1643,Japanese,multitree,
+31134,nucl1643,Japanisch,multitree,
+31135,nucl1643,Japanese,ruhlen (1987),
+31136,nucl1643,Japanese,wals,
+41400,tgbc1234,TGB Celtic,glottolog,
+48354,amer1248,ASL,lexvo,sv
+48355,amer1248,American Sign Language,lexvo,de
+48356,amer1248,Amerikaanse Gebarentaal,lexvo,nl
+48357,amer1248,Amerikansk tegnspråk,lexvo,no
+48358,amer1248,Amerikkalainen viittomakieli,lexvo,fi
+48359,amer1248,Američki znakovni jezik,lexvo,hr
+48360,amer1248,Langue des signes américaine,lexvo,fr
+48361,amer1248,Lengua de signos americana,lexvo,es
+48362,amer1248,Língua de Sinais Americana,lexvo,pt
+48363,amer1248,Usona signolingvo,lexvo,eo
+48364,amer1248,Амслен,lexvo,ru
+48365,amer1248,アメリカ手話,lexvo,ja
+48366,amer1248,美國手語,lexvo,zh
+48367,amer1248,미국 수화,lexvo,ko
+48368,amer1248,ASL,multitree,
+48369,amer1248,American Sign Language,multitree,
+48370,amer1248,Ameslan,multitree,
+48371,amer1248,American Sign Language,wals,
+48372,amer1248,Ameslan,wals other,
+48916,nucl1301,An Tuircis,lexvo,ga
+48917,nucl1301,Bahasa Turki,lexvo,id
+48918,nucl1301,Bahsa Tureuki,lexvo,ace
+48919,nucl1301,Basa Turki,lexvo,su
+48920,nucl1301,Durkkagiella,lexvo,se
+48921,nucl1301,Gjuha turke,lexvo,sq
+48922,nucl1301,Idioma turco,lexvo,an
+48923,nucl1301,Język turecki,lexvo,pl
+48924,nucl1301,Kituruki,lexvo,sw
+48925,nucl1301,Lengua turca,lexvo,vec
+48926,nucl1301,Limba turcă,lexvo,ro
+48927,nucl1301,Limba turtseascã,lexvo,rup
+48928,nucl1301,Lingua Turcica,lexvo,la
+48929,nucl1301,Lingua tirca,lexvo,rm
+48930,nucl1301,Lingua turca,lexvo,gl
+48931,nucl1301,Lingua turkana,lexvo,lad
+48932,nucl1301,Lìngua turca,lexvo,sc
+48933,nucl1301,Língua turca,lexvo,pt
+48934,nucl1301,Pinulongang Turko,lexvo,ceb
+48935,nucl1301,Thú-ngí-khì-ngî,lexvo,hak
+48936,nucl1301,Tinurkiya,lexvo,war
+48937,nucl1301,Tiếng Thổ Nhĩ Kỳ,lexvo,vi
+48938,nucl1301,Torku kalba,lexvo,lt
+48939,nucl1301,Trouk,lexvo,wa
+48940,nucl1301,Turc,lexvo,ca
+48941,nucl1301,Turcu,lexvo,ast
+48942,nucl1301,Turecko godka,lexvo,szl
+48943,nucl1301,Turečtina,lexvo,cs
+48944,nucl1301,Turk tili,lexvo,uz
+48945,nucl1301,Turka lingvo,lexvo,eo
+48946,nucl1301,Turkeg,lexvo,br
+48947,nucl1301,Turkek,lexvo,kw
+48948,nucl1301,Turkiana linguo,lexvo,io
+48949,nucl1301,Turkiera,lexvo,eu
+48950,nucl1301,Turkin kieli,lexvo,fi
+48951,nucl1301,Turkish,lexvo,en
+48952,nucl1301,Turkish bhasa,lexvo,hif
+48953,nucl1301,Turkish language,lexvo,en
+48954,nucl1301,Turkish leid,lexvo,sco
+48955,nucl1301,Turkiska,lexvo,sv
+48956,nucl1301,Turkowšćina,lexvo,hsb
+48957,nucl1301,Turks,lexvo,nl
+48958,nucl1301,Turksk,lexvo,fy
+48959,nucl1301,Turku simi,lexvo,qu
+48960,nucl1301,Turku valoda,lexvo,lv
+48961,nucl1301,Turkų kalba,lexvo,lt
+48962,nucl1301,Turski jezik,lexvo,bs
+48963,nucl1301,Turščina,lexvo,sl
+48964,nucl1301,Tyrceg,lexvo,cy
+48965,nucl1301,Tyrkisk,lexvo,da
+48966,nucl1301,Tyrkisk språk,lexvo,nn
+48967,nucl1301,Tyrkneska,lexvo,is
+48968,nucl1301,Törek tele,lexvo,tt
+48969,nucl1301,Törks,lexvo,li
+48970,nucl1301,Török nyelv,lexvo,hu
+48971,nucl1301,Türgi keel,lexvo,et
+48972,nucl1301,Türk dili,lexvo,az
+48973,nucl1301,Türk tili,lexvo,crh
+48974,nucl1301,Türkische Sprache,lexvo,de
+48975,nucl1301,Türkiye-gí,lexvo,nan
+48976,nucl1301,Türkçe,lexvo,tr
+48977,nucl1301,Tırki,lexvo,diq
+48978,nucl1301,Wikang Turko,lexvo,tl
+48979,nucl1301,turc,lexvo,fr
+48980,nucl1301,Τουρκική γλώσσα,lexvo,el
+48981,nucl1301,Анадолу Түркчөсү,lexvo,ky
+48982,nucl1301,Забони туркӣ,lexvo,tg
+48983,nucl1301,Турецкий язык,lexvo,ru
+48984,nucl1301,Турецька мова,lexvo,uk
+48985,nucl1301,Туреч кыв,lexvo,kv
+48986,nucl1301,Туркаг æвзаг,lexvo,os
+48987,nucl1301,Туркань кяль,lexvo,mdf
+48988,nucl1301,Турккă чĕлхи,lexvo,cv
+48989,nucl1301,Туркойн мотт,lexvo,ce
+48990,nucl1301,Турски език,lexvo,bg
+48991,nucl1301,Турски јазик,lexvo,mk
+48992,nucl1301,Турски језик,lexvo,sr
+48993,nucl1301,Турэцкая мова,lexvo,be
+48994,nucl1301,Түрк тыла,lexvo,sah
+48995,nucl1301,Түрік тілі,lexvo,kk
+48996,nucl1301,Төрөк теле,lexvo,ba
+48997,nucl1301,Թուրքերեն,lexvo,hy
+48998,nucl1301,טורקית,lexvo,he
+48999,nucl1301,ترک زبان,lexvo,ur
+49000,nucl1301,توركى,lexvo,arz
+49001,nucl1301,تۈرك تىلى,lexvo,ug
+49002,nucl1301,زبان ترکی استانبولی,lexvo,fa
+49003,nucl1301,لغة تركية,lexvo,ar
+49004,nucl1301,ܠܫܢܐ ܛܘܪܩܝܐ,lexvo,aii
+49005,nucl1301,तुर्की भाषा,lexvo,hi
+49006,nucl1301,তুর্কি ভাষা,lexvo,bn
+49007,nucl1301,துருக்கிய மொழி,lexvo,ta
+49008,nucl1301,തുര്‍ക്കി ഭാഷ,lexvo,ml
+49009,nucl1301,ภาษาตุรกี,lexvo,th
+49010,nucl1301,თურქული ენა,lexvo,ka
+49011,nucl1301,トルコ語,lexvo,ja
+49012,nucl1301,土耳其语,lexvo,zh
+49013,nucl1301,터키어,lexvo,ko
+49014,nucl1301,Turkish,moseley & asher (1994),
+49015,nucl1301,Anatolian,multitree,
+49016,nucl1301,Osmanli,multitree,
+49017,nucl1301,Osmanli Turkish,multitree,
+49018,nucl1301,Turki,multitree,
+49019,nucl1301,Turkish,multitree,
+49020,nucl1301,Türkisch,multitree,
+49021,nucl1301,Türkçe,multitree,
+49022,nucl1301,Turkish,ruhlen (1987),
+49023,nucl1301,Turkish,wals,
+49024,nucl1301,Osmanli,wals other,
+52721,edek1238,Edekiri,multitree,
+59579,east2445,Tokelau-Fijian,glottolog,
+61869,mand1415,Bahasa Mandarin,lexvo,id
+61870,mand1415,Chino mandarín,lexvo,es
+61871,mand1415,Guók-ngṳ̄,lexvo,cdo
+61872,mand1415,Hochchinesisch,lexvo,de
+61873,mand1415,Hoochchinesisk,lexvo,stq
+61874,mand1415,Idioma shino mandarin,lexvo,lad
+61875,mand1415,Języki mandaryńskie,lexvo,pl
+61876,mand1415,Limba mandarină,lexvo,ro
+61877,mand1415,Lingua Sinensis Mandarinica,lexvo,la
+61878,mand1415,Lingua chinese mandarin,lexvo,ia
+61879,mand1415,Lingua cinese mandarino,lexvo,it
+61880,mand1415,Lingua xinesa mandarinu,lexvo,sc
+61881,mand1415,Língua mandarim,lexvo,pt
+61882,mand1415,Mandarena ĉina,lexvo,eo
+61883,mand1415,Mandariinikiina,lexvo,fi
+61884,mand1415,Mandarijn,lexvo,nl
+61885,mand1415,Mandarin Chinese,lexvo,en
+61886,mand1415,Mandarin,lexvo,da
+61887,mand1415,Mandarin estandard,lexvo,oc
+61888,mand1415,Mandarin language,lexvo,en
+61889,mand1415,Mandarin nyelv,lexvo,hu
+61890,mand1415,Mandarí,lexvo,ca
+61891,mand1415,Mandarín,lexvo,gl
+61892,mand1415,Mandarínština,lexvo,cs
+61893,mand1415,Mandarīnu valoda,lexvo,lv
+61894,mand1415,Manderinki,lexvo,diq
+61895,mand1415,Quan thoại,lexvo,vi
+61896,mand1415,Çînî,lexvo,ku
+61897,mand1415,Мандарин,lexvo,bg
+61898,mand1415,Мандарински језик,lexvo,sr
+61899,mand1415,Северные диалекты китайского языка,lexvo,ru
+61900,mand1415,מנדרינית,lexvo,he
+61901,mand1415,ماندارین,lexvo,fa
+61902,mand1415,மாண்டரின் மொழி,lexvo,ta
+61903,mand1415,ภาษาจีนกลาง,lexvo,th
+61904,mand1415,中国官話,lexvo,ja
+61905,mand1415,國語,lexvo,yue
+61906,mand1415,官話,lexvo,lzh
+61907,mand1415,官话,lexvo,zh
+61908,mand1415,관화,lexvo,ko
+61909,mand1415,Mandarin,moseley & asher (1994),
+61910,mand1415,Beifang Fangyan,multitree,
+61911,mand1415,"Chinese, Mandarin",multitree,
+61912,mand1415,"Chinese,Mandarin",multitree,
+61913,mand1415,Guanhua,multitree,
+61914,mand1415,Guoyu,multitree,
+61915,mand1415,Hanyu,multitree,
+61916,mand1415,Mandarin,multitree,
+61917,mand1415,Mandarin Chinese,multitree,
+61918,mand1415,Mandarin Supergroup,multitree,
+61919,mand1415,Northern Chinese,multitree,
+61920,mand1415,Pei,multitree,
+61921,mand1415,Putonghua,multitree,
+61922,mand1415,Standard Chinese,multitree,
+61923,mand1415,not specified,ruhlen (1987),
+61924,mand1415,Kunming,wals,
+61925,mand1415,Mandarin,wals,
+61926,mand1415,Chinese,wals other,
+61927,mand1415,Chinese (Kunming),wals other,
+61928,mand1415,Chinese (Mandarin),wals other,
+61929,mand1415,Mandarin Chinese,wals other,
+64828,finn1318,An Fhionlainnis,lexvo,ga
+64829,finn1318,Bahasa Finland,lexvo,ms
+64830,finn1318,Bahasa Suomi,lexvo,id
+64831,finn1318,Ffinneg,lexvo,cy
+64832,finn1318,Fin dili,lexvo,az
+64833,finn1318,Fin tili,lexvo,crh
+64834,finn1318,Fince,lexvo,tr
+64835,finn1318,Finlandana linguo,lexvo,io
+64836,finn1318,Finlandiera,lexvo,eu
+64837,finn1318,Finn nyelv,lexvo,hu
+64838,finn1318,Finna lingvo,lexvo,eo
+64839,finn1318,Finneg,lexvo,br
+64840,finn1318,Finnek,lexvo,kw
+64841,finn1318,Finngbe,lexvo,ee
+64842,finn1318,Finnisc sprǣc,lexvo,ang
+64843,finn1318,Finnische Sprache,lexvo,de
+64844,finn1318,Finnish,lexvo,en
+64845,finn1318,Finnish language,lexvo,en
+64846,finn1318,Finnish leid,lexvo,sco
+64847,finn1318,Finnlynnish,lexvo,gv
+64848,finn1318,Finnois,lexvo,fr
+64849,finn1318,Finnsche Spraak,lexvo,nds
+64850,finn1318,Finnska,lexvo,is
+64851,finn1318,Fins,lexvo,af
+64852,finn1318,Finsk,lexvo,da
+64853,finn1318,Finsk språk,lexvo,nn
+64854,finn1318,Finska,lexvo,sv
+64855,finn1318,Finski jezik,lexvo,bs
+64856,finn1318,Finès,lexvo,ca
+64857,finn1318,Finés,lexvo,oc
+64858,finn1318,Finština,lexvo,cs
+64859,finn1318,Finšćina,lexvo,hsb
+64860,finn1318,Finščina,lexvo,sl
+64861,finn1318,Fionnais,lexvo,gd
+64862,finn1318,Fínčina,lexvo,sk
+64863,finn1318,Gjuha finlandeze,lexvo,sq
+64864,finn1318,Idioma finés,lexvo,an
+64865,finn1318,Język fiński,lexvo,pl
+64866,finn1318,Lenga finlandèisa,lexvo,pms
+64867,finn1318,Lengua finlandesa,lexvo,lmo
+64868,finn1318,Limba finlandeză,lexvo,ro
+64869,finn1318,Lingua Finnica,lexvo,la
+64870,finn1318,Lingua fillannisa,lexvo,scn
+64871,finn1318,Lingua finesa,lexvo,gl
+64872,finn1318,Lingua finlandaisa,lexvo,rm
+64873,finn1318,Lingua finlandese,lexvo,it
+64874,finn1318,Lingua finnese,lexvo,ia
+64875,finn1318,Língua finlandesa,lexvo,pt
+64876,finn1318,Phinis simi,lexvo,qu
+64877,finn1318,Pinulongang Pines,lexvo,ceb
+64878,finn1318,Somu valoda,lexvo,lv
+64879,finn1318,Soome keel,lexvo,et
+64880,finn1318,Soomõ kiil,lexvo,vro
+64881,finn1318,Suomagiella,lexvo,se
+64882,finn1318,Suomen kieli,lexvo,fi
+64883,finn1318,Suomi-gí,lexvo,nan
+64884,finn1318,Suomių kalba,lexvo,lt
+64885,finn1318,Tiếng Phần Lan,lexvo,vi
+64886,finn1318,finnois,lexvo,fr
+64887,finn1318,Èdè Fínlándì,lexvo,yo
+64888,finn1318,Łéngua finlandexe,lexvo,vec
+64889,finn1318,Φινλανδική γλώσσα,lexvo,el
+64890,finn1318,Забони финӣ,lexvo,tg
+64891,finn1318,Суоминь кель,lexvo,myv
+64892,finn1318,Суоминь кяль,lexvo,mdf
+64893,finn1318,Финляндхойн мотт,lexvo,ce
+64894,finn1318,Финн йылме,lexvo,mhr
+64895,finn1318,Финн кыв,lexvo,kv
+64896,finn1318,Финн чĕлхи,lexvo,cv
+64897,finn1318,Финнаг æвзаг,lexvo,os
+64898,finn1318,Фински език,lexvo,bg
+64899,finn1318,Фински јазик,lexvo,mk
+64900,finn1318,Фински језик,lexvo,sr
+64901,finn1318,Финский язык,lexvo,ru
+64902,finn1318,Фінская мова,lexvo,be
+64903,finn1318,Фінська мова,lexvo,uk
+64904,finn1318,פינית,lexvo,he
+64905,finn1318,زبان فنلاندی,lexvo,fa
+64906,finn1318,فىنلاندىيە تىلى,lexvo,ug
+64907,finn1318,لغة فنلندية,lexvo,ar
+64908,finn1318,ސުއޯމީ,lexvo,dv
+64909,finn1318,फ़िनिश भाषा,lexvo,hi
+64910,finn1318,ফিনীয় ভাষা,lexvo,bn
+64911,finn1318,பின்னிய மொழி,lexvo,ta
+64912,finn1318,ภาษาฟินแลนด์,lexvo,th
+64913,finn1318,ფინური ენა,lexvo,ka
+64914,finn1318,‘Ōlelo Pinilana,lexvo,haw
+64915,finn1318,フィンランド語,lexvo,ja
+64916,finn1318,芬兰语,lexvo,zh
+64917,finn1318,핀란드어,lexvo,ko
+64918,finn1318,Finnish,moseley & asher (1994),
+64919,finn1318,Finnish,multitree,
+64920,finn1318,Finnish,ruhlen (1987),
+64921,finn1318,Finnish,wals,
+70502,high1286,High German,glottolog,
+72861,taga1270,Bahasa Tagalog,lexvo,id
+72862,taga1270,Fiteny Tagalog,lexvo,mg
+72863,taga1270,Idioma tagalo,lexvo,es
+72864,taga1270,Język tagalog,lexvo,pl
+72865,taga1270,Lengua tagalog,lexvo,lij
+72866,taga1270,Lingua tagalog,lexvo,it
+72867,taga1270,Língua tagalo,lexvo,pt
+72868,taga1270,Pagsasao a Tagalog,lexvo,ilo
+72869,taga1270,Tagalog,lexvo,cs
+72870,taga1270,Tagalog language,lexvo,en
+72871,taga1270,Tagalog nyelv,lexvo,hu
+72872,taga1270,Tagaloga lingvo,lexvo,eo
+72873,taga1270,Tagalogeg,lexvo,br
+72874,taga1270,Tagaloški jezik,lexvo,hr
+72875,taga1270,Tagalu,lexvo,ast
+72876,taga1270,Tagalu simi,lexvo,qu
+72877,taga1270,Tagalòg,lexvo,oc
+72878,taga1270,Tagalų kalba,lexvo,lt
+72879,taga1270,Takalotça,lexvo,tr
+72880,taga1270,Tataramon na Tagalog,lexvo,bcl
+72881,taga1270,Tinag-alog,lexvo,war
+72882,taga1270,Tinagalog,lexvo,ceb
+72883,taga1270,Tiếng Tagalog,lexvo,vi
+72884,taga1270,Wikang Tagalog,lexvo,tl
+72885,taga1270,Zimanê tagalogî,lexvo,ku
+72886,taga1270,tagalog,lexvo,fr
+72887,taga1270,Тагалог,lexvo,bg
+72888,taga1270,Тагаль чĕлхи,lexvo,cv
+72889,taga1270,Тагальский язык,lexvo,ru
+72890,taga1270,Тагальська мова,lexvo,uk
+72891,taga1270,تاگالوگ تىلى,lexvo,ug
+72892,taga1270,تغالوغ,lexvo,ar
+72893,taga1270,زبان تاگالوگ,lexvo,fa
+72894,taga1270,टागालोग भाषा,lexvo,hi
+72895,taga1270,তাগালোগ ভাষা,lexvo,bn
+72896,taga1270,டகாலொக் மொழி,lexvo,ta
+72897,taga1270,ടാഗലോഗ്,lexvo,ml
+72898,taga1270,ภาษาตากาล็อก,lexvo,th
+72899,taga1270,ფილიპინური ენა,lexvo,ka
+72900,taga1270,タガログ語,lexvo,ja
+72901,taga1270,他加祿語,lexvo,zh
+72902,taga1270,타갈로그어,lexvo,ko
+72903,taga1270,Tagalog,moseley & asher (1994),
+72904,taga1270,Tagal,multitree,
+72905,taga1270,Tagala,multitree,
+72906,taga1270,Tagala Gruppe,multitree,
+72907,taga1270,Tagalog,multitree,
+72908,taga1270,Tagalog,ruhlen (1987),
+72909,taga1270,Tagalog,wals,
+72910,taga1270,Filipino,wals other,
+76739,nucl1418,Bassa,lexvo,de
+81601,angl1265,Anglian,glottolog,
+89506,iris1253,Erse,elcat,
+89507,iris1253,Gadhelisch,elcat,
+89508,iris1253,Gaeilge,elcat,
+89509,iris1253,Irish,elcat,
+89510,iris1253,Irish Gaelic,elcat,
+89511,iris1253,Airių kalba,lexvo,lt
+89512,iris1253,An Ghaeilge,lexvo,ga
+89513,iris1253,Bahasa Irlandia,lexvo,id
+89514,iris1253,Erse leid,lexvo,sco
+89515,iris1253,Gaelana linguo,lexvo,io
+89516,iris1253,Gaelera,lexvo,eu
+89517,iris1253,Gaelicu Irlandiesu,lexvo,sc
+89518,iris1253,Gaèlic irlandès,lexvo,ca
+89519,iris1253,Gaèlico irlandês,lexvo,frp
+89520,iris1253,Gjuha irlandeze,lexvo,sq
+89521,iris1253,Gwyddeleg,lexvo,cy
+89522,iris1253,Gàidhlig na h-Èireann,lexvo,gd
+89523,iris1253,Idioma irlandés,lexvo,an
+89524,iris1253,Iers,lexvo,li
+89525,iris1253,Iers-Gaelies,lexvo,af
+89526,iris1253,Iersk,lexvo,fy
+89527,iris1253,Iiri,lexvo,fi
+89528,iris1253,Iiri keel,lexvo,et
+89529,iris1253,Iirragiella,lexvo,se
+89530,iris1253,Ilanda simi,lexvo,qu
+89531,iris1253,Irische Sprache,lexvo,de
+89532,iris1253,Irische Sproch,lexvo,bar
+89533,iris1253,Irish,lexvo,en
+89534,iris1253,Irish language,lexvo,en
+89535,iris1253,Iriska,lexvo,sv
+89536,iris1253,Irlanda lingvo,lexvo,eo
+89537,iris1253,Irlandais,lexvo,fr
+89538,iris1253,Irlandés,lexvo,ast
+89539,iris1253,Irsk,lexvo,da
+89540,iris1253,Irsk språk,lexvo,nn
+89541,iris1253,Irska gelščina,lexvo,sl
+89542,iris1253,Irski jezik,lexvo,bs
+89543,iris1253,Irština,lexvo,cs
+89544,iris1253,Iršćina,lexvo,hsb
+89545,iris1253,Iwerdhonek,lexvo,kw
+89546,iris1253,Iwerzhoneg,lexvo,br
+89547,iris1253,Język irlandzki,lexvo,pl
+89548,iris1253,Lenga irlandèisa,lexvo,pms
+89549,iris1253,Lenghe irlandese,lexvo,fur
+89550,iris1253,Lengua irlandeise,lexvo,lij
+89551,iris1253,Limba irlandeză,lexvo,ro
+89552,iris1253,Lingua Hibernica,lexvo,la
+89553,iris1253,Lingua irlandaisa,lexvo,rm
+89554,iris1253,Lingua irlandesa,lexvo,gl
+89555,iris1253,Lingua irlandese,lexvo,it
+89556,iris1253,Língua irlandesa,lexvo,pt
+89557,iris1253,Tirlandit,lexvo,kab
+89558,iris1253,Tok Aialan,lexvo,tpi
+89559,iris1253,Wikang Irlandes,lexvo,tl
+89560,iris1253,Yernish,lexvo,gv
+89561,iris1253,Zimanê îrlandî,lexvo,ku
+89562,iris1253,irlandais,lexvo,fr
+89563,iris1253,Ír nyelv,lexvo,hu
+89564,iris1253,Írska,lexvo,is
+89565,iris1253,Írskt mál,lexvo,fo
+89566,iris1253,Írčina,lexvo,sk
+89567,iris1253,Īrisc sprǣc,lexvo,ang
+89568,iris1253,Īru valoda,lexvo,lv
+89569,iris1253,İrland dili,lexvo,az
+89570,iris1253,İrlandaca,lexvo,tr
+89571,iris1253,Łéngua irlandexe,lexvo,vec
+89572,iris1253,Ιρλανδική γλώσσα,lexvo,el
+89573,iris1253,Ірландська мова,lexvo,uk
+89574,iris1253,Ірляндзкая мова,lexvo,be
+89575,iris1253,Забони ирландӣ,lexvo,tg
+89576,iris1253,Ирланд чĕлхи,lexvo,cv
+89577,iris1253,Ирландиаг æвзаг,lexvo,os
+89578,iris1253,Ирландски език,lexvo,bg
+89579,iris1253,Ирландский язык,lexvo,ru
+89580,iris1253,Ирландхойн мотт,lexvo,ce
+89581,iris1253,Ирски јазик,lexvo,mk
+89582,iris1253,Ирски језик,lexvo,sr
+89583,iris1253,Эйринмудн келн,lexvo,xal
+89584,iris1253,איריש,lexvo,yi
+89585,iris1253,אירית,lexvo,he
+89586,iris1253,ئرېلاندىيە تىلى,lexvo,ug
+89587,iris1253,ايرلاندى,lexvo,arz
+89588,iris1253,زبان ایرلندی,lexvo,fa
+89589,iris1253,زمانی ئیری,lexvo,ckb
+89590,iris1253,لغة أيرلندية,lexvo,ar
+89591,iris1253,आयरिश भाषा,lexvo,hi
+89592,iris1253,আইরিশ ভাষা,lexvo,bn
+89593,iris1253,アイルランド語,lexvo,ja
+89594,iris1253,愛爾蘭語,lexvo,zh
+89595,iris1253,아일랜드어,lexvo,ko
+89596,iris1253,"Gaelic, Irish",moseley & asher (1994),
+89597,iris1253,Irish,moseley & asher (1994),
+89598,iris1253,Erse,multitree,
+89599,iris1253,Gadhelisch,multitree,
+89600,iris1253,Gaeilge,multitree,
+89601,iris1253,Gaelic (Irish),multitree,
+89602,iris1253,"Gaelic, Irish",multitree,
+89603,iris1253,Irish,multitree,
+89604,iris1253,Irish Gaelic,multitree,
+89605,iris1253,Irlandais,multitree,
+89606,iris1253,Irlandés,multitree,
+89607,iris1253,Irish,ruhlen (1987),
+89608,iris1253,Irish,wals,
+89609,iris1253,Irish (Donegal),wals,
+89610,iris1253,Irish (Munster),wals,
+89611,iris1253,Donegal dialect,wals other,
+89612,iris1253,Gaelic,wals other,
+89613,iris1253,Irish,wals other,
+89614,iris1253,Irish Gaelic,wals other,
+89615,iris1253,Munster,wals other,
+89617,wels1247,Cymraeg,elcat,
+89618,wels1247,Gallois,elcat,
+89619,wels1247,Galés,elcat,
+89620,wels1247,Kymrisch,elcat,
+89621,wels1247,Welsh,elcat,
+89622,wels1247,y Gymraeg,elcat,
+89623,wels1247,An Bhreatnais,lexvo,ga
+89624,wels1247,Bahasa Wales,lexvo,id
+89625,wels1247,Bretnish,lexvo,gv
+89626,wels1247,Cuimris,lexvo,gd
+89627,wels1247,Cymraeg,lexvo,cy
+89628,wels1247,Cymru-gí,lexvo,nan
+89629,wels1247,Galce,lexvo,tr
+89630,wels1247,Galesera,lexvo,eu
+89631,wels1247,Gallois,lexvo,fr
+89632,wels1247,Galouès,lexvo,frp
+89633,wels1247,Gal·lès,lexvo,ca
+89634,wels1247,Galés,lexvo,ast
+89635,wels1247,Idioma galés,lexvo,an
+89636,wels1247,Język walijski,lexvo,pl
+89637,wels1247,Kamri simi,lexvo,qu
+89638,wels1247,Kembraeg,lexvo,br
+89639,wels1247,Kembrek,lexvo,kw
+89640,wels1247,Kimra lingvo,lexvo,eo
+89641,wels1247,Kiwelisi,lexvo,sw
+89642,wels1247,Kymri,lexvo,fi
+89643,wels1247,Kymrisch,lexvo,bar
+89644,wels1247,Kymriska,lexvo,sv
+89645,wels1247,Kõmri keel,lexvo,et
+89646,wels1247,Lenga galèisa,lexvo,pms
+89647,wels1247,Lengua galleise,lexvo,lij
+89648,wels1247,Limba galeză,lexvo,ro
+89649,wels1247,Limba gallesa,lexvo,sc
+89650,wels1247,Lingua Cambrica,lexvo,la
+89651,wels1247,Lingua galesa,lexvo,gl
+89652,wels1247,Lingua gallese,lexvo,it
+89653,wels1247,Lingua gallisa,lexvo,scn
+89654,wels1247,Lingua valisica,lexvo,rm
+89655,wels1247,Língua galesa,lexvo,pt
+89656,wels1247,Valižanščina,lexvo,sl
+89657,wels1247,Valų kalba,lexvo,lt
+89658,wels1247,Velsiešu valoda,lexvo,lv
+89659,wels1247,Velska,lexvo,is
+89660,wels1247,Velški jezik,lexvo,sh
+89661,wels1247,Velština,lexvo,cs
+89662,wels1247,Walesi nyelv,lexvo,hu
+89663,wels1247,Waleština,lexvo,sk
+89664,wels1247,Walijsko godka,lexvo,szl
+89665,wels1247,Walisesch,lexvo,lb
+89666,wels1247,Walisisch,lexvo,gsw
+89667,wels1247,Walisische Sprache,lexvo,de
+89668,wels1247,Walisisk,lexvo,da
+89669,wels1247,Walisisk språk,lexvo,nn
+89670,wels1247,Walisiskt mál,lexvo,fo
+89671,wels1247,Walizišćina,lexvo,hsb
+89672,wels1247,Wallies,lexvo,af
+89673,wels1247,Walsana linguo,lexvo,io
+89674,wels1247,Walès,lexvo,wa
+89675,wels1247,Welsh,lexvo,en
+89676,wels1247,Welsh language,lexvo,en
+89677,wels1247,Welsh leid,lexvo,sco
+89678,wels1247,Welsk,lexvo,fy
+89679,wels1247,Wikang Gales,lexvo,tl
+89680,wels1247,gallois,lexvo,fr
+89681,wels1247,Ƿielisc sprǣc,lexvo,ang
+89682,wels1247,Ουαλική γλώσσα,lexvo,el
+89683,wels1247,Валли чĕлхи,lexvo,cv
+89684,wels1247,Валлийаг æвзаг,lexvo,os
+89685,wels1247,Валлийский язык,lexvo,ru
+89686,wels1247,Валлійська мова,lexvo,uk
+89687,wels1247,Велшки јазик,lexvo,mk
+89688,wels1247,Велшки језик,lexvo,sr
+89689,wels1247,Уелски език,lexvo,bg
+89690,wels1247,ולשית,lexvo,he
+89691,wels1247,زبان ولزی,lexvo,fa
+89692,wels1247,لغة ويلزية,lexvo,ar
+89693,wels1247,ويلزى,lexvo,arz
+89694,wels1247,ۋېلش تىلى,lexvo,ug
+89695,wels1247,ওয়েল্‌শ্‌ ভাষা,lexvo,bn
+89696,wels1247,ウェールズ語,lexvo,ja
+89697,wels1247,威尔士语,lexvo,zh
+89698,wels1247,웨일스어,lexvo,ko
+89699,wels1247,Welsh,moseley & asher (1994),
+89700,wels1247,Cymraeg,multitree,
+89701,wels1247,Gallois,multitree,
+89702,wels1247,Galés,multitree,
+89703,wels1247,Kymrisch,multitree,
+89704,wels1247,Welsh,multitree,
+89705,wels1247,Welsh,ruhlen (1987),
+89706,wels1247,Welsh,wals,
+98186,merc1242,Mercian,glottolog,
+107660,yoru1245,Bahasa Yoruba,lexvo,id
+107661,yoru1245,Idioma yoruba,lexvo,es
+107662,yoru1245,Ioruba,lexvo,ca
+107663,yoru1245,Joruba,lexvo,no
+107664,yoru1245,Joruba lingvo,lexvo,eo
+107665,yoru1245,Joruban kieli,lexvo,fi
+107666,yoru1245,Jorubų kalba,lexvo,lt
+107667,yoru1245,Język joruba,lexvo,pl
+107668,yoru1245,Lenga Yoruba,lexvo,pms
+107669,yoru1245,Lingua yoruba,lexvo,it
+107670,yoru1245,Língua iorubá,lexvo,pt
+107671,yoru1245,Yorouba,lexvo,wa
+107672,yoru1245,Yoroubeg,lexvo,br
+107673,yoru1245,Yoruba,lexvo,de
+107674,yoru1245,Yoruba language,lexvo,en
+107675,yoru1245,Yoruba simi,lexvo,qu
+107676,yoru1245,yoruba,lexvo,fr
+107677,yoru1245,Èdè Yorùbá,lexvo,yo
+107678,yoru1245,Јоруба,lexvo,mk
+107679,yoru1245,Йоруба,lexvo,ru
+107680,yoru1245,لغة يوربا,lexvo,ar
+107681,yoru1245,يورۇباچە,lexvo,ug
+107682,yoru1245,ইয়োরুবা ভাষা,lexvo,bn
+107683,yoru1245,யொரூபா மொழி,lexvo,ta
+107684,yoru1245,იორუბა,lexvo,ka
+107685,yoru1245,ヨルバ語,lexvo,ja
+107686,yoru1245,约鲁巴语,lexvo,zh
+107687,yoru1245,Yoruba,moseley & asher (1994),
+107688,yoru1245,Ede-Yoruba,multitree,
+107689,yoru1245,Yariba,multitree,
+107690,yoru1245,Yooba,multitree,
+107691,yoru1245,Yoruba,multitree,
+107692,yoru1245,not specified,ruhlen (1987),
+107693,yoru1245,Yoruba,wals,
+109820,hind1269,An Hiondúis,lexvo,ga
+109821,hind1269,Bahasa Hindi,lexvo,id
+109822,hind1269,Fiteny hindi,lexvo,mg
+109823,hind1269,Hind dili,lexvo,az
+109824,hind1269,Hindeg,lexvo,br
+109825,hind1269,Hindi,lexvo,an
+109826,hind1269,Hindi keel,lexvo,et
+109827,hind1269,Hindi language,lexvo,en
+109828,hind1269,Hindi linguo,lexvo,io
+109829,hind1269,Hindi nyelv,lexvo,hu
+109830,hind1269,Hindi simi,lexvo,qu
+109831,hind1269,Hindi-gí,lexvo,nan
+109832,hind1269,Hindia lingvo,lexvo,eo
+109833,hind1269,Hindigiella,lexvo,se
+109834,hind1269,Hindijščina,lexvo,sl
+109835,hind1269,Hindišćina,lexvo,hsb
+109836,hind1269,Hindjan,lexvo,nap
+109837,hind1269,Hindski jezik,lexvo,hr
+109838,hind1269,Hindí,lexvo,is
+109839,hind1269,Hindčina,lexvo,sk
+109840,hind1269,Hindština,lexvo,cs
+109841,hind1269,Hinndi,lexvo,ksh
+109842,hind1269,Hintçe,lexvo,tr
+109843,hind1269,Indi,lexvo,oc
+109844,hind1269,Język hindi,lexvo,pl
+109845,hind1269,Kihindi,lexvo,sw
+109846,hind1269,Lengua hindi,lexvo,lij
+109847,hind1269,Limba hindi,lexvo,ro
+109848,hind1269,Lingua Hindi,lexvo,la
+109849,hind1269,Lingua hindi,lexvo,gl
+109850,hind1269,Lingua indiana,lexvo,lad
+109851,hind1269,Língua hindi,lexvo,pt
+109852,hind1269,Pinulongang Indi,lexvo,ceb
+109853,hind1269,Tiếng Hindi,lexvo,vi
+109854,hind1269,Wikang Hindī,lexvo,tl
+109855,hind1269,Zimanê hindî,lexvo,ku
+109856,hind1269,hindi,lexvo,fr
+109857,hind1269,Χίντι γλώσσα,lexvo,el
+109858,hind1269,Гіндзі,lexvo,be
+109859,hind1269,Гінді,lexvo,uk
+109860,hind1269,Забони ҳиндӣ,lexvo,tg
+109861,hind1269,Хинди,lexvo,bg
+109862,hind1269,Хіндзі,lexvo,be
+109863,hind1269,הינדי,lexvo,he
+109864,hind1269,زبان هندی,lexvo,fa
+109865,hind1269,لغة هندية,lexvo,ar
+109866,hind1269,ھىندى تىلى,lexvo,ug
+109867,hind1269,ہندی,lexvo,ur
+109868,hind1269,ހިންދީ,lexvo,dv
+109869,hind1269,हिंदी भाषा,lexvo,mr
+109870,hind1269,हिन्दी,lexvo,hi
+109871,hind1269,हिन्दी भाषा,lexvo,new
+109872,hind1269,हिन्दीकानी छीब,lexvo,rom
+109873,hind1269,হিন্দি ভাষা,lexvo,bn
+109874,hind1269,হিন্দী ঠার,lexvo,bpy
+109875,hind1269,ਹਿੰਦੀ ਭਾਸ਼ਾ,lexvo,pa
+109876,hind1269,હિંદી ભાષા,lexvo,gu
+109877,hind1269,இந்தி,lexvo,ta
+109878,hind1269,హిందీ భాష,lexvo,te
+109879,hind1269,ಹಿಂದಿ,lexvo,kn
+109880,hind1269,ഹിന്ദി,lexvo,ml
+109881,hind1269,ภาษาฮินดี,lexvo,th
+109882,hind1269,རྒྱ་གར་སྐད།,lexvo,bo
+109883,hind1269,ჰინდი ენა,lexvo,ka
+109884,hind1269,ᐦᐃᓐᑏ/hintii,lexvo,iu
+109885,hind1269,ヒンディー語,lexvo,ja
+109886,hind1269,印地語,lexvo,gan
+109887,hind1269,印地语,lexvo,wuu
+109888,hind1269,힌디어,lexvo,ko
+109889,hind1269,Hindi,moseley & asher (1994),
+109890,hind1269,High Hindi,multitree,
+109891,hind1269,Hindi,multitree,
+109892,hind1269,Hindustani,multitree,
+109893,hind1269,Khadi Boli,multitree,
+109894,hind1269,Khari Boli,multitree,
+109895,hind1269,Literary Hindi,multitree,
+109896,hind1269,Nagari Hindi,multitree,
+109897,hind1269,Standard Hindi,multitree,
+109898,hind1269,Hindi,ruhlen (1987),
+109899,hind1269,Hindi,wals,
+110428,stan1295,German,lexvo,en
+110429,stan1295,Haut-allemand moderne,lexvo,fr
+110430,stan1295,Neuhochdeutsch,lexvo,de
+110431,stan1295,New High German,lexvo,en
+110432,stan1295,Nyhøytysk,lexvo,no
+110433,stan1295,allemand,lexvo,fr
+110434,stan1295,German,moseley & asher (1994),
+110435,stan1295,Deutsch,multitree,
+110436,stan1295,German,multitree,
+110437,stan1295,German (Standard),multitree,
+110438,stan1295,"German, Standard",multitree,
+110439,stan1295,Neuhochdeutsch,multitree,
+110440,stan1295,New High German,multitree,
+110441,stan1295,Tedesco,multitree,
+110442,stan1295,German,ruhlen (1987),
+110443,stan1295,German,wals,
+110444,stan1295,German (Berlin),wals,
+110445,stan1295,German (Hannover),wals,
+110446,stan1295,German (Mansfeldisch),wals,
+110447,stan1295,German (Thuringian),wals,
+110448,stan1295,German (Timisoara),wals,
+110679,stan1293,Anglais moderne,lexvo,fr
+110680,stan1293,English,lexvo,en
+110681,stan1293,Inglese moderno,lexvo,it
+110682,stan1293,Inglês moderno,lexvo,pt
+110683,stan1293,Modern English,lexvo,en
+110684,stan1293,Moderna angla lingvo,lexvo,eo
+110685,stan1293,Moderne engelsk,lexvo,no
+110686,stan1293,Modernes Englisch,lexvo,de
+110687,stan1293,Nyengelska,lexvo,sv
+110688,stan1293,anglais,lexvo,fr
+110689,stan1293,თანამედროვე ინგლისური პერიოდი,lexvo,ka
+110690,stan1293,現代英語,lexvo,zh
+110691,stan1293,近代英語,lexvo,ja
+110692,stan1293,English,moseley & asher (1994),
+110693,stan1293,Englisch,multitree,
+110694,stan1293,English,multitree,
+110695,stan1293,English,ruhlen (1987),
+110696,stan1293,English,wals,
+110697,stan1293,English (Standard Southern British),wals other,
+115574,swah1253,Bravanese dialect,lexvo,en
+115575,swah1253,Kiswahili,lexvo,en
+115576,swah1253,Swahili (individual language),lexvo,en
+115577,swah1253,Swahili,lexvo,en
+115578,swah1253,Swahili,moseley & asher (1994),
+115579,swah1253,Arab-Swahili,multitree,
+115580,swah1253,Kisuaheli,multitree,
+115581,swah1253,Kisuahili,multitree,
+115582,swah1253,Kiswaheli,multitree,
+115583,swah1253,Kiswahili,multitree,
+115584,swah1253,Suahili,multitree,
+115585,swah1253,Swahili,multitree,
+115586,swah1253,Swahili (individual language),multitree,
+115587,swah1253,Swahili,ruhlen (1987),
+115588,swah1253,Swahili,wals,
+115589,swah1253,KiSwahili,wals other,
+116836,hawa1245,'Ōlelo Hawai'i,elcat,
+116837,hawa1245,'Ōlelo Hawai'i Makuahine,elcat,
+116838,hawa1245,Hawaiian,elcat,
+116839,hawa1245,Bahasa Hawaii,lexvo,id
+116840,hawa1245,Gagana fa'a Hawai'i,lexvo,sm
+116841,hawa1245,Havaijin kieli,lexvo,fi
+116842,hawa1245,Havaja lingvo,lexvo,eo
+116843,hawa1245,Havajiečių kalba,lexvo,lt
+116844,hawa1245,Havajiešu valoda,lexvo,lv
+116845,hawa1245,Havajski jezik,lexvo,hr
+116846,hawa1245,Havajčina,lexvo,sk
+116847,hawa1245,Havajština,lexvo,cs
+116848,hawa1245,Havajščina,lexvo,sl
+116849,hawa1245,Haváís,lexvo,ga
+116850,hawa1245,Hawaieg,lexvo,br
+116851,hawa1245,Hawaiera,lexvo,eu
+116852,hawa1245,Hawaii nyelv,lexvo,hu
+116853,hawa1245,Hawaiiaansche Spraak,lexvo,nds
+116854,hawa1245,Hawaiian,lexvo,en
+116855,hawa1245,Hawaiian language,lexvo,en
+116856,hawa1245,Hawaiiansk,lexvo,da
+116857,hawa1245,Hawaiianskt mál,lexvo,fo
+116858,hawa1245,Hawaiische Sprache,lexvo,de
+116859,hawa1245,Hawaiisk,lexvo,no
+116860,hawa1245,Hawaiiska,lexvo,sv
+116861,hawa1245,Hawaià,lexvo,ca
+116862,hawa1245,Hawaiíska,lexvo,is
+116863,hawa1245,Hawaiïaans,lexvo,li
+116864,hawa1245,Hawayi simi,lexvo,qu
+116865,hawa1245,Hawaíyane,lexvo,ku
+116866,hawa1245,Hawaïaans,lexvo,nds
+116867,hawa1245,Hawaïen,lexvo,fr
+116868,hawa1245,Idioma hawaiano,lexvo,es
+116869,hawa1245,Język hawajski,lexvo,pl
+116870,hawa1245,Lengua hawaïann-a,lexvo,lij
+116871,hawa1245,Limba hawaiiană,lexvo,ro
+116872,hawa1245,Lingua hawaiana,lexvo,gl
+116873,hawa1245,Lingua hawaiiana,lexvo,it
+116874,hawa1245,Língua havaiana,lexvo,pt
+116875,hawa1245,Wikang Hawayano,lexvo,tl
+116876,hawa1245,hawaïen,lexvo,fr
+116877,hawa1245,Χαβαϊκή γλώσσα,lexvo,el
+116878,hawa1245,Гавайский язык,lexvo,ru
+116879,hawa1245,Гавайська мова,lexvo,uk
+116880,hawa1245,Хавайски език,lexvo,bg
+116881,hawa1245,Хавајски јазик,lexvo,mk
+116882,hawa1245,لغة هاواي,lexvo,ar
+116883,hawa1245,ஹவாய் மொழி,lexvo,ta
+116884,hawa1245,‘Ōlelo Hawai‘i,lexvo,haw
+116885,hawa1245,ハワイ語,lexvo,ja
+116886,hawa1245,夏威夷语,lexvo,zh
+116887,hawa1245,하와이어,lexvo,ko
+116888,hawa1245,Hawaiian,moseley & asher (1994),
+116889,hawa1245,'Olelo Hawai'i Makuahine,multitree,
+116890,hawa1245,Hawaiano,multitree,
+116891,hawa1245,Hawaii,multitree,
+116892,hawa1245,Hawaiian,multitree,
+116893,hawa1245,Hawaïen,multitree,
+116894,hawa1245,Olelo Hawai'i,multitree,
+116895,hawa1245,Hawaiian,ruhlen (1987),
+116896,hawa1245,Hawaiian,wals,
+116897,hawa1245,'Olelo Hawai'i,wals other,
