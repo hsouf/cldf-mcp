@@ -1,6 +1,6 @@
 # cldf-mcp
 
-<!-- mcp-name: io.github.soufianehajazi23/cldf-mcp -->
+<!-- mcp-name: io.github.hsouf/cldf-mcp -->
 
 An [MCP](https://modelcontextprotocol.io) server that gives AI assistants grounded access to
 cross-linguistic data published in the [CLDF](https://cldf.clld.org) format. Version 0.1 ships with:
@@ -161,7 +161,7 @@ This is an independent project and is not affiliated with the WALS, Glottolog or
 ## Development
 
 ```bash
-git clone https://github.com/soufianehajazi23/cldf-mcp && cd cldf-mcp
+git clone https://github.com/hsouf/cldf-mcp && cd cldf-mcp
 python -m venv .venv && . .venv/bin/activate
 pip install -e ".[dev]"
 pytest                # offline tests on small fixtures (tests/fixtures)

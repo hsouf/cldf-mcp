@@ -109,7 +109,7 @@ def create_server(manager: DataManager | None = None) -> MCPServer:
         description="Typological and genealogical data on the world's languages, with provenance.",
         instructions=INSTRUCTIONS,
         version=__version__,
-        website_url="https://github.com/soufianehajazi23/cldf-mcp",
+        website_url="https://github.com/hsouf/cldf-mcp",
     )
 
     def call(fn, *args, **kwargs) -> dict[str, Any]:

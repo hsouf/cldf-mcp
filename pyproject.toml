@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.11"
 license = "MIT"
 license-files = ["LICENSE"]
-authors = [{ name = "soufianehajazi23", email = "soufianehajazi23@gmail.com" }]
+authors = [{ name = "hsouf" }]
 keywords = ["mcp", "model-context-protocol", "linguistics", "typology", "wals", "glottolog", "cldf"]
 classifiers = [
   "Development Status :: 4 - Beta",
@@ -33,8 +33,8 @@ dev = ["pytest>=8", "anyio>=4", "ruff>=0.6"]
 cldf-mcp = "cldf_mcp.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/soufianehajazi23/cldf-mcp"
-Issues = "https://github.com/soufianehajazi23/cldf-mcp/issues"
+Homepage = "https://github.com/hsouf/cldf-mcp"
+Issues = "https://github.com/hsouf/cldf-mcp/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/cldf_mcp"]

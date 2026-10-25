@@ -163,7 +163,8 @@ def test_install_explains_locked_database_on_windows(tmp_path, monkeypatch):
 
 
 def test_readonly_uri_handles_unusual_paths(tmp_path):
-    odd = tmp_path / "my data #1 %20 ?x"
+    # Characters that are special in URIs; '?' is not allowed in Windows file names.
+    odd = tmp_path / ("my data #1 %20" if sys.platform == "win32" else "my data #1 %20 ?x")
     odd.mkdir()
     db = odd / "cldf.sqlite"
     with contextlib.closing(sqlite3.connect(db)) as c:
