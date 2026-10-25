@@ -14,3 +14,5 @@ First public release.
 - Resources: `cldf://guide/typology-caveats` and `cldf://datasets`.
 - CLI: `cldf-mcp` (stdio server), `serve --transport streamable-http`, `setup`, `info`.
 - Experimental: extra CLDF StructureDatasets via a TOML config.
+- Windows: rebuilding while a server has the database open now fails with a clear message instead of
+  `PermissionError`, and temporary build files are always cleaned up.

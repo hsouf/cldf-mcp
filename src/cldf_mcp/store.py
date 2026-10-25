@@ -17,6 +17,7 @@ from collections import Counter, defaultdict
 from dataclasses import dataclass, field
 from pathlib import Path
 
+from .build import readonly_uri
 from .cldf import split_sources
 
 GLOTTOCODE = re.compile(r"^[a-z0-9]{4}\d{4}$")
@@ -136,7 +137,7 @@ class Store:
     def __init__(self, db_path: Path):
         self.path = Path(db_path)
         self._lock = threading.RLock()
-        self.conn = sqlite3.connect(f"file:{self.path}?mode=ro", uri=True, check_same_thread=False)
+        self.conn = sqlite3.connect(readonly_uri(self.path), uri=True, check_same_thread=False)
         self.conn.row_factory = sqlite3.Row
         q = self._q
         self.meta = {r["key"]: r["value"] for r in q("SELECT key, value FROM meta")}
@@ -197,6 +198,16 @@ class Store:
         self._build_name_index()
 
     # ------------------------------------------------------------------ helpers
+    def close(self) -> None:
+        with self._lock:
+            self.conn.close()
+
+    def __enter__(self) -> Store:
+        return self
+
+    def __exit__(self, *exc) -> None:
+        self.close()
+
     def _q(self, sql: str, args: tuple = ()) -> list[sqlite3.Row]:
         with self._lock:
             return self.conn.execute(sql, args).fetchall()

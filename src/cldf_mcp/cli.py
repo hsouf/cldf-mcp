@@ -58,7 +58,14 @@ def main(argv: list[str] | None = None) -> int:
     logging.basicConfig(level=logging.WARNING, stream=sys.stderr, format="cldf-mcp: %(message)s")
 
     if args.command == "setup":
-        manager.prepare(force=args.force)
+        from .build import DatabaseInUseError
+        from .fetch import ChecksumError
+
+        try:
+            manager.prepare(force=args.force)
+        except (DatabaseInUseError, ChecksumError) as e:
+            print(f"cldf-mcp: {e}", file=sys.stderr)
+            return 1
         print(json.dumps(manager.store().list_datasets(), indent=2, ensure_ascii=False))
         return 0
     if args.command == "info":

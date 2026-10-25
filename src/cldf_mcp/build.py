@@ -2,9 +2,11 @@
 
 from __future__ import annotations
 
+import contextlib
 import json
 import os
 import sqlite3
+import sys
 import tempfile
 import time
 from collections.abc import Callable
@@ -67,6 +69,36 @@ CREATE INDEX codes_param ON codes (dataset, parameter_id);
 """
 
 PSEUDO_FAMILY = "Pseudo Family"
+
+
+def readonly_uri(path: Path) -> str:
+    """SQLite URI for read-only access; percent-encodes spaces, '#', '?' and Windows drive paths correctly."""
+    return Path(path).resolve().as_uri() + "?mode=ro"
+
+
+class DatabaseInUseError(RuntimeError):
+    pass
+
+
+def _install(tmp: Path, db_path: Path, attempts: int = 10, delay: float = 0.2) -> None:
+    """Atomically move the freshly built database into place.
+
+    On Windows a file cannot be replaced while any process has it open (for example a running
+    cldf-mcp server, or an antivirus scan of the new file), so retry briefly and then explain.
+    """
+    for attempt in range(attempts):
+        try:
+            os.replace(tmp, db_path)
+            return
+        except PermissionError:
+            if sys.platform != "win32":
+                raise
+            if attempt == attempts - 1:
+                raise DatabaseInUseError(
+                    f"Could not replace {db_path}: it is open in another program, most likely a running "
+                    "cldf-mcp server. Quit your MCP client (or stop the server) and run `cldf-mcp setup` again."
+                ) from None
+            time.sleep(delay)
 
 
 def _float(v: str) -> float | None:
@@ -435,10 +467,11 @@ def build(specs: dict[str, DatasetSpec], db_path: Path, raw_root: Path, log: Cal
     for spec in specs.values():
         dirs[spec.id] = ensure_files(spec, raw_root, log)
     db_path.parent.mkdir(parents=True, exist_ok=True)
-    fd, tmp = tempfile.mkstemp(dir=db_path.parent, prefix=".build-", suffix=".sqlite")
+    fd, tmp_name = tempfile.mkstemp(dir=db_path.parent, prefix=".build-", suffix=".sqlite")
     os.close(fd)
+    tmp = Path(tmp_name)
+    conn = sqlite3.connect(tmp)
     try:
-        conn = sqlite3.connect(tmp)
         conn.executescript(SCHEMA)
         b = Builder(conn, log)
         ordered = sorted(specs.values(), key=lambda s: s.role != "catalog")  # catalog first
@@ -464,9 +497,11 @@ def build(specs: dict[str, DatasetSpec], db_path: Path, raw_root: Path, log: Cal
         conn.commit()
         conn.execute("ANALYZE")
         conn.close()
-        os.replace(tmp, db_path)
+        _install(tmp, db_path)
     except BaseException:
-        Path(tmp).unlink(missing_ok=True)
+        conn.close()  # Windows cannot delete a file that is still open
+        with contextlib.suppress(OSError):
+            tmp.unlink(missing_ok=True)
         raise
     log(f"built {db_path} in {time.time() - started:.1f}s")
     return db_path
@@ -476,9 +511,8 @@ def is_current(db_path: Path, specs: dict[str, DatasetSpec]) -> bool:
     if not db_path.exists():
         return False
     try:
-        conn = sqlite3.connect(f"file:{db_path}?mode=ro", uri=True)
-        meta = dict(conn.execute("SELECT key, value FROM meta").fetchall())
-        conn.close()
+        with contextlib.closing(sqlite3.connect(readonly_uri(db_path), uri=True)) as conn:
+            meta = dict(conn.execute("SELECT key, value FROM meta").fetchall())
     except sqlite3.Error:
         return False
     return meta.get("schema_version") == SCHEMA_VERSION and meta.get("fingerprint") == fingerprint(specs)
